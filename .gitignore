@@ -1,0 +1,9 @@
+AuctionBot/obj/
+AuctionBot/bin/
+RotationBot/bin/
+RotationBot/obj/
+WowLib/obj/
+WowLib/bin/
+.vs/
+RotationBot.Benchmarks/bin/
+RotationBot.Benchmarks/obj/
